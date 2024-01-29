@@ -22,7 +22,7 @@ pip install Flask Flask-SQLAlchemy Flask-Mail
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/TUR14CUs/job-application-form.git
+git clone https://github.com/TUR14CUS/job-application-form.git
 cd job-application-form
 ```
 
