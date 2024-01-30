@@ -2,6 +2,13 @@
 
 This is a simple web application built using Flask for collecting job applications. It includes a form with fields for the applicant's personal information, and the submitted data is stored in a SQLite database. Additionally, an email notification is sent to the applicant using Flask-Mail.
 
+## Table of Contents
+1. [Prerequisites](#prerequisites)
+2. [Getting Started](#getting-started)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+
 ## Prerequisites
 
 Make sure you have the following installed on your system:
